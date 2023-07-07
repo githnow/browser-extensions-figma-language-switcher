@@ -1,4 +1,5 @@
 /.vscode
 /js
+/assets
 pop*
 manifest.json
