@@ -9,7 +9,7 @@
       }
     ],
     "description": "Template for your translations. Includes: \"Menu\", etc. Free rows sh'be deleted. Syntax Checker here: jsonlint.com",
-    "updated": "2023/07/11"
+    "updated": "2023/07/12"
   },
   "data": [
     {
@@ -2683,6 +2683,7 @@
       "←  Everything in Professional, plus": "",
       "↓ Duplicate": "",
       "↓ Install": "",
+      "↩ Enter": "",
       "✓  Centralized teams": "",
       "✓  Custom file/user permissions": "",
       "✓  Design System Analytics": "",
