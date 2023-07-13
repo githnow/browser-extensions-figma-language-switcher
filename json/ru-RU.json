@@ -9,7 +9,7 @@
       }
     ],
     "description": "Перевод Figma (расширенный). Включает: меню, метки, плагины, разделы \"Файлы\", \"Настройки\", \"FigJam\" ",
-    "updated": "2023/07/10"
+    "updated": "2023/07/13"
   },
   "data": [
     {
@@ -365,6 +365,7 @@
       "Animation": "Анимация",
       "Annual billing only": "Только годовое выставление счетов",
       "Annual plan": "Годовой план",
+      "Anonymous (you)": "Аноним (вы)",
       "Anyone": "Любой",
       "Anyone with the link": "Любой, у кого есть ссылка",
       "Anyone with the link and password": "Любой, у кого есть ссылка и пароль",
@@ -668,6 +669,7 @@
       "Create new property": "Создать новое свойство",
       "Create new team": "Создать новую команду",
       "Create new text style": "Создать новый текстовый стиль",
+      "Create one": "Создайте новый",
       "Create profile": "Создать профиль",
       "Create project": "Создать проект",
       "Create property": "Создание свойства",
@@ -1192,6 +1194,8 @@
       "Lock/Unlock": "Заблокировать/Разблокировать",
       "Lock/Unlock selection": "Заблокировать/Разблокировать",
       "Log in": "Войти",
+      "Log in to Figma with SAML SSO": "Вход в Figma с помощью SAML SSO",
+      "Log in with Google or a password": "Вход с помощью Google или пароля",
       "Log out": "Выйти",
       "Lower case": "Нижний регистр",
       "Lowercase": "строчные",
@@ -1275,6 +1279,7 @@
       "Next": "Далее",
       "Next page": "Следующая страница",
       "Next to review": "Следующий к просмотру",
+      "No account?": "Нет аккаунта?",
       "No components": "Нет компонентов",
       "No components, styles, or variables": "Нет компонентов, стилей или переменных",
       "No files yet": "Нет файлов",
@@ -1564,6 +1569,7 @@
       "Reset others": "Сброс...",
       "Reset overlay": "Сброс слоя",
       "Reset overrides": "Сброс всех слоёв",
+      "Reset password": "Сбросить пароль",
       "Reset size": "Сброс размера",
       "Reset stroke": "Сброс обводки",
       "Reset text": "Сброс текста",
@@ -1961,6 +1967,7 @@
       "Use libraries for quick access to components from other files.": "Используйте библиотеки для быстрого доступа к компонентам из других файлов.",
       "Use number keys for opacity": "Использовать цифровые клавиши (0-9) для непрозрачности",
       "Use shape outlines": "Использовать контур фигуры",
+      "Use single sign-on": "Используйте единый вход",
       "Use style": "Использовать стиль",
       "Use the circular node to connect the selected object to another frame.": "Используйте узел для соединения выбранного объекта с другим фреймом.",
       "Use the play button in the toolbar to play your prototype. If there are no connections, the play button can be used to play a presentation of your frames.": "Используйте кнопку воспроизведения на панели инструментов для демонстрации вашего прототипа. Если нет соединений, кнопку можно использовать для показа презентации проекта.",
